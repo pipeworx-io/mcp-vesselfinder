@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/vesselfinder",
   "title": "Vesselfinder",
   "description": "VesselFinder MCP — wraps the VesselFinder AIS API (vesselfinder.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/vesselfinder",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-vesselfinder",
