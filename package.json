@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-vesselfinder",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "VesselFinder MCP — wraps the VesselFinder AIS API (vesselfinder.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-25b6518454690dfd9a358c49c5d22692c27d626a680c070d342402a85ada6adf",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-fb6fb87748ea046935dd06e4489b6f34f238c08f988ba1b7892bc1bf597f2ea6",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
